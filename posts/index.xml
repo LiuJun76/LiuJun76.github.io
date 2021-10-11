@@ -13,8 +13,7 @@
       <pubDate>Mon, 11 Oct 2021 15:35:46 +0800</pubDate>
       
       <guid>http://example.org/posts/my-second-post/</guid>
-      <description>##本次实验中遇到的问题
-hugo中由于没有存账号密码，通过百度指令功能将账号与密码存入。测试是否连接上可以用ssh -T git@github.com Hi aaa! You&amp;rsquo;ve successfully authenticated, but GitHub does not provide shell access.</description>
+      <description>本次实验中遇到的问题 hugo中由于没有存账号密码，通过百度指令功能将账号与密码存入。测试是否连接上可以用ssh -T git@github.com Hi aaa! You&amp;rsquo;ve successfully authenticated, but GitHub does not provide shell access.</description>
     </item>
     
     <item>
